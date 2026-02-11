@@ -1,0 +1,20 @@
+---
+title: "Welcome to My Website"
+author: "Yingyi Guo"
+date: "2026-02-11"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+
+Welcome to my Quarto website.
+
+## About Me
+
+- Graduate student at BU MET
+- Applied Business Analytics
+- Passionate about data & landscape analytics
+
